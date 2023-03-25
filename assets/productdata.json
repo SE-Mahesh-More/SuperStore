@@ -1,0 +1,37 @@
+[
+  {
+    "pId": 101,
+    "pName": "iPhone 14 Pro",
+    "pPrice": 139900,
+    "pImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone14pro-digitalmat-gallery-5-202209?wid=364&hei=333&fmt=png-alpha&.v=1663346233360",
+    "pDate": "2023/02/01"
+  },
+  {
+    "pId": 102,
+    "pName": "iPhone 14",
+    "pPrice": 79900,
+    "pImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone14-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055813794",
+    "pDate": "2023/03/02"
+  },
+  {
+    "pId": 103,
+    "pName": "iPhone 13",
+    "pPrice": 69900,
+    "pImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988765122",
+    "pDate": "2023/04/03"
+  },
+  {
+    "pId": 104,
+    "pName": "iPhone 12",
+    "pPrice": 59900,
+    "pImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178709000",
+    "pDate": "2023/05/04"
+  },
+  {
+    "pId": 105,
+    "pName": "iPhone 12",
+    "pPrice": 59900,
+    "pImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178709000",
+    "pDate": "2023/05/04"
+  }
+]
